@@ -21,13 +21,14 @@
   },
   {
     "icon": "images/2p.png",
-    "title": "ionicプロジェクトでnodeの環境変数を使ってビルド環境を切り替えるのにちょっと面倒だった話",
+    "title":
+      "ionicプロジェクトでnodeの環境変数を使ってビルド環境を切り替えるのにちょっと面倒だった話",
     "link": "https://qiita.com/bobu_web/items/d908ae965ec587cdbe61"
   },
   {
-    "icon": "",
-    "title": "",
-    "link": ""
+    "icon": "images/sugo.jpeg",
+    "title": "RailsからFCM(FirebaseCloudMessaging)を使ってみる<OAuth2.0利用>",
+    "link": "https://qiita.com/sugo/items/63d55ff8d3802dae70bc"
   },
   {
     "icon": "",
