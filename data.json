@@ -1,13 +1,8 @@
 [
   {
-    "icon": "",
-    "title": "",
-    "link": ""
-  },
-  {
     "icon": "images/2p.png",
     "title": "DeployGateのアプリ配信を操作するアプリをDeployGateで配信した話",
-    "link": "https://qiita.com/bobu_web/items/eb1452d4cacb2e2c96e7"
+    "link": "https://qiita.com/bobu_web/private/eb1452d4cacb2e2c96e7"
   },
   {
     "icon": "images/sugo.jpeg",
@@ -20,9 +15,9 @@
     "link": "https://qiita.com/shinichi-takahashi/items/7d73dcd713ffbd46a56e"
   },
   {
-    "icon": "",
-    "title": "",
-    "link": ""
+    "icon": "images/2p.png",
+    "title": "ionicプロジェクトでnodeの環境変数を使ってビルド環境を切り替えるのにちょっと面倒だった話",
+    "link": "https://qiita.com/bobu_web/items/d908ae965ec587cdbe61"
   },
   {
     "icon": "",
