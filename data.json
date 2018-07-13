@@ -47,13 +47,14 @@
   },
   {
     "icon": "images/shinichi.png",
-    "title": "AWS Lambda利用を前提にフレームワークを選ぶときに僕がかんがえたこと",
+    "title":
+      "AWS Lambda利用を前提にフレームワークを選ぶときに僕がかんがえたこと",
     "link": "https://qiita.com/shinichi-takahashi/items/1a3da4158d7d5ff48f2b"
   },
   {
-    "icon": "",
-    "title": "",
-    "link": ""
+    "icon": "images/takunosuke.jpg",
+    "title": "IT業界で働いてみた10日目の雑感（タスク管理について）",
+    "link": "https://qiita.com/Takunosuke/items/8747863b881e8e6a8dc5"
   },
   {
     "icon": "",
