@@ -13,8 +13,7 @@
     "icon": "images/sugo.jpeg",
     "title": "Netlifyで静的サイトのホスティングをする",
     "link": "https://qiita.com/sugo/items/2ee64887d682b0dae635"
-  },
-  {
+  }, {
     "icon": "images/shinichi.png",
     "title": "ionicを業務レベルで使うとどうなるか",
     "link": "https://qiita.com/shinichi-takahashi/items/7d73dcd713ffbd46a56e"
@@ -97,9 +96,9 @@
     "link": "https://qiita.com/kai_kou/items/445e614fb71f2204e033"
   },
   {
-    "icon": "",
-    "title": "",
-    "link": ""
+    "icon": "images/shinichi.png",
+    "title": "TypeORMのリレーション定義に気をつけよう。死ぬぞ。",
+    "link": "https://qiita.com/shinichi-takahashi/items/e47d869fb83fb27fae91"
   },
   {
     "icon": "",
