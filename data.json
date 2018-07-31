@@ -13,15 +13,15 @@
     "icon": "images/sugo.jpeg",
     "title": "Netlifyで静的サイトのホスティングをする",
     "link": "https://qiita.com/sugo/items/2ee64887d682b0dae635"
-  }, {
+  },
+  {
     "icon": "images/shinichi.png",
     "title": "ionicを業務レベルで使うとどうなるか",
     "link": "https://qiita.com/shinichi-takahashi/items/7d73dcd713ffbd46a56e"
   },
   {
     "icon": "images/2p.png",
-    "title":
-      "ionicプロジェクトでnodeの環境変数を使ってビルド環境を切り替えるのにちょっと面倒だった話",
+    "title": "ionicプロジェクトでnodeの環境変数を使ってビルド環境を切り替えるのにちょっと面倒だった話",
     "link": "https://qiita.com/bobu_web/items/d908ae965ec587cdbe61"
   },
   {
@@ -46,8 +46,7 @@
   },
   {
     "icon": "images/shinichi.png",
-    "title":
-      "AWS Lambda利用を前提にフレームワークを選ぶときに僕がかんがえたこと",
+    "title": "AWS Lambda利用を前提にフレームワークを選ぶときに僕がかんがえたこと",
     "link": "https://qiita.com/shinichi-takahashi/items/1a3da4158d7d5ff48f2b"
   },
   {
@@ -146,9 +145,9 @@
     "link": ""
   },
   {
-    "icon": "",
-    "title": "",
-    "link": ""
+    "icon": "images/sugo.jpeg",
+    "title": "lambda + RDB なシステムのローカル開発環境をdockerで",
+    "link": "https://qiita.com/sugo/items/f8ef40aa51a85eac157d"
   },
   {
     "icon": "",
